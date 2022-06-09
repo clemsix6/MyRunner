@@ -8,7 +8,7 @@
 #include "my_runner.h"
 #include <stdlib.h>
 
-object_t *create_object(const char *sprite_path,
+object_t *create_object(const char *path,
                         sfVector2f pos,
                         sfIntRect rect,
                         object_type_t type)
