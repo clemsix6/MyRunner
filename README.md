@@ -19,7 +19,7 @@ Le jeu est capable de charger une map à partir d'un fichier text. Pour acroire 
 Le projet contient les caractéristiques technique suivants
 
 * Gestion d'évenements tels des inputs.
-* Sprites animmés
+* Sprites animmées
 * Objets en mouvement
 * Tous mouvements et animations ne dépendent pas de la rapidité du pc grâce à l'utilisation d'une clock et d'un système de deltatime.
 
